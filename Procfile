@@ -1,1 +1,1 @@
-worker: python bosstrivia
+worker: python bosstrivia.py
