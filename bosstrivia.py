@@ -1,5 +1,3 @@
-hq_main.py
-
 import asyncio
 import logging
 import os
