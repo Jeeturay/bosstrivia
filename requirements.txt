@@ -7,4 +7,5 @@ cchardet
 colorama
 lomond
 asyncio
-question
+question.py
+discord.py
