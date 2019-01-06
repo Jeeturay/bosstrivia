@@ -6,3 +6,6 @@ aiodns
 cchardet
 colorama
 lomond
+asyncio
+question
+networking 
